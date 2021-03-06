@@ -1,0 +1,21 @@
+Cultivo;Campaña;Rendimiento
+"Trigo total";2000/01;2794
+"Trigo total";2001/02;2518
+"Trigo total";2002/03;2177
+"Trigo total";2003/04;2886
+"Trigo total";2004/05;2972
+"Trigo total";2005/06;2665
+"Trigo total";2006/07;3025
+"Trigo total";2007/08;2710
+"Trigo total";2008/09;2290
+"Trigo total";2009/10;2915
+"Trigo total";2010/11;4044
+"Trigo total";2011/12;3879
+"Trigo total";2012/13;3096
+"Trigo total";2013/14;3429
+"Trigo total";2014/15;3091
+"Trigo total";2015/16;3527
+"Trigo total";2016/17;3567
+"Trigo total";2017/18;3864
+"Trigo total";2018/19;3993
+"Trigo total";2019/20;3239
